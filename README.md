@@ -1,4 +1,4 @@
-A command line interface which queries https://maps.sensor.community/data/v2/data.24h.json open air quality sensor data filter sensor given distance then calculates the average PM2.5 and PM10
+A command line interface which queries https://maps.sensor.community/data/v2/data.24h.json open air quality sensor data filter sensors given distance to the current location then calculates the average PM2.5 and PM10
 
 Visit https://maps.sensor.community to visualize the data on a world map
 
